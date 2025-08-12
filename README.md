@@ -6,7 +6,7 @@
 ### <div align="center">I'm Pojitha Hettiarachchilalage 🖥️</div>  
   
 
-Solution-focused Research Assistant and IoT Developer with a Masters's Degree in Artificial Intelligence and 1 year of experience in Researching new technologies and doing innovation for IoT, IoT Security , Machine Learning and AI.  Skilled in Python, SQL, Data Science, Machine Learning, IoT,  and  Data Visualisation.  
+Solution-focused Research Assistant and IoT Developer with a Masters's Degree in Artificial Intelligence and 3 year of experience in Researching new technologies and doing innovation for IoT, IoT Security , Machine Learning and AI.  Skilled in Python, SQL, Data Science, Machine Learning, IoT,  and  Data Visualisation.  
   
 
 - BSc (Hons) in Computer Security @ University of Plymouth 🎓  
